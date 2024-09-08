@@ -1,8 +1,6 @@
 /*********************
  *Aryan Kotwal*
- * ICS 3U1 - Assignment 1 *
- **
- *    A Nameplate *
+ * A Nameplate *
  **************************/
 
 //Shapes
@@ -11,7 +9,6 @@
 
 void setup() {
   size(800, 400);
-  //Methods are tricky and challenging but good practice for a programmer
   drawBackground();
   stroke(#FFFFFF);
   strokeWeight(5);
